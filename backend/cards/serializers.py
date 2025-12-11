@@ -58,3 +58,5 @@ class CardReviewSerializer(serializers.Serializer):
         max_value=3,
         help_text="Spaced repetition rating where 0 is a lapse and 3 is easy."
     )
+
+
